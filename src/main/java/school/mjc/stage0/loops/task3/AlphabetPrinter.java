@@ -27,6 +27,6 @@ public class AlphabetPrinter {
                 "w\n" +
                 "x\n" +
                 "y\n" +
-                "z\n" );
+                "z" );
     }
 }
